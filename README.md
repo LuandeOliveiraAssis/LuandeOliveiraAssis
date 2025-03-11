@@ -4,7 +4,7 @@
 Sou Analista de Dados e Consultor Funcional, especializado no desenvolvimento e implementação de soluções utilizando a Microsoft Power Platform, Power BI e Dynamics 365. Com experiência na criação de dashboards financeiros, automação de processos empresariais e gestão de ocorrências, ajudo empresas a otimizarem operações e tomarem decisões estratégicas mais assertivas.
 
 <p align="left">
-    <a href="www.linkedin.com/in/luan-de-oliveira-assis">
+    <a href="www.linkedin.com/in/luan-de-oliveira-assis](https://www.linkedin.com/in/luan-de-oliveira-assis/)">
         <img 
             alt="Meu Linkedin" 
             title="Veja meu Linkedin"
